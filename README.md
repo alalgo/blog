@@ -1,3 +1,1 @@
-<h2 align="center" > 胡萝卜的blog </h2>
-
-- [2019年的期许](https://github.com/alalgo/blog/issues/1)
+软件产业的历史、变迁、未来的思考
