@@ -35,7 +35,7 @@ While tail-based sampling is often more desirable than head-based sampling, it d
 In addition, this analysis requires more compute power and will need to be factored into how you architect your collection infrastructure.
 
 **采集的数据**  
- traces（ a collection of spans）、metrics、 logs
+ traces（ a collection of spans）、metrics/stats、 logs
 
 
 ### 业界解决方案
