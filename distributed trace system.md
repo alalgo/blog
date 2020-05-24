@@ -65,7 +65,7 @@ In addition, this analysis requires more compute power and will need to be facto
 - OpenTelemetry（OpenTracing与OpenCensus合并）：开源，托管在 CNCF，provide APIs and SDKs in multiple languages to allow applications to export various telemetry data out of the process. 向后兼容OpenTracing、OpenCensus。
 - Lightstep
 - DataDog
-- Pinpoint：Java编写的大规模分布式系统的APM工具，由韩国人开源的分布式跟踪组件。
+- Pinpoint：Java编写的大规模分布式系统的APM工具，由韩国人开源的分布式跟踪组件。受到google Dapper 启发。
 
 ### 资料
 - [《Dapper, a Large-Scale Distributed Systems Tracing Infrastructure|Google Technical Report dapper-2010-1, April 2010》 ](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/papers/dapper-2010-1.pdf)
